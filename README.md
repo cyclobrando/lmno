@@ -1,2 +1,1 @@
-# lmno
-Teaching my son how to read.
+Teaching my son how to read!
