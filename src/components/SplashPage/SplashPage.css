@@ -1,0 +1,10 @@
+.splash-container {
+    display: flex;
+    background: url("../../images/alphabet-lowercase.jpg");
+    background-size: contain;
+    background-repeat: repeat;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
